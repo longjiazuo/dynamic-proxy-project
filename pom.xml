@@ -8,5 +8,6 @@
 	<url>http://blog.longjiazuo.com/</url>
   <modules>
     <module>static-proxy</module>
+    <module>jdk-proxy</module>
   </modules>
 </project>

@@ -2,6 +2,9 @@ package org.light4j.proxy.impl;
 
 import org.light4j.proxy.Hello;
 
+/**
+ * @author longjiazuo
+ */
 public class HelloProxy implements Hello {
 
 	private Hello hello;
