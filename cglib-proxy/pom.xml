@@ -8,19 +8,17 @@
 		<artifactId>dynamic-proxy-project</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>static-proxy</groupId>
-	<artifactId>static-proxy</artifactId>
-	<name>static-proxy</name>
+	<artifactId>cglib-proxy</artifactId>
+	<name>cglib-proxy</name>
 	<url>http://blog.longjiazuo.com</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
 		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>3.8.1</version>
-			<scope>test</scope>
+			<groupId>cglib</groupId>
+			<artifactId>cglib</artifactId>
+			<version>3.1</version>
 		</dependency>
 	</dependencies>
 </project>
